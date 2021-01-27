@@ -1,0 +1,5 @@
+print("Program to add two numbers")
+print("Press enter after every number")
+Num1=input("Number1:")
+Num2=input("Number2:")
+Sum=input(float(Num1)+float(Num2))
